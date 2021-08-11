@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -7.9322,
+    "lat": 37.0194
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clouds",
+      "description": "cloudy sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 299.03,
+    "feels_like": 299.37,
+    "temp_min": 299.03,
+    "temp_max": 299.03,
+    "pressure": 1015,
+    "humidity": 65
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.57,
+    "deg": 260
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1628971273,
+  "sys": {
+    "type": 1,
+    "id": 6892,
+    "country": "PT",
+    "sunrise": 1628920069,
+    "sunset": 1628969111
+  },
+  "timezone": 3600,
+  "id": 2268339,
+  "name": "Faro",
+  "cod": 200
+}
